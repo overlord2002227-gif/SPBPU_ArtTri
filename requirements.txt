@@ -1,0 +1,10 @@
+python-telegram-bot>=20.8
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+ollama
+pydub
+python-dotenv
+aiosqlite
+pydantic
+pydantic-settings

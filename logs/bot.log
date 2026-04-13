@@ -1,0 +1,652 @@
+2025-12-05 17:09:07,245 - ai_assistant - ERROR - ❌ Ошибка подключения Google: Authorized user info was not in the expected format, missing fields refresh_token.
+2025-12-05 17:18:00,231 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-05 17:18:01,639 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-05 17:18:01,644 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-05 17:27:10,468 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-05 17:27:11,653 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-05 17:27:11,669 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-05 17:28:33,683 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-05 17:28:34,886 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-05 17:28:34,888 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-05 17:28:34,888 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-05 17:28:37,035 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-05 17:28:37,035 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-05 17:28:37,914 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-05 17:29:37,201 - ai_assistant - INFO - 📱 Новый пользователь: 5527939035
+2025-12-05 17:31:12,769 - ai_assistant - INFO - 🧠 LLM ответ: {
+  "intent": "create",
+  "title": "поход в больницу",
+  "start_time": null,
+  "duration": 60,
+  "description": "",
+  "location": "больница",
+  "priority": "medium",
+  "recurrence": "none",
+  "partici...
+2025-12-05 17:32:41,899 - ai_assistant - INFO - 🧠 LLM ответ: {
+  "intent": "list",
+  "title": null,
+  "start_time": null,
+  "duration": 60,
+  "description": null,
+  "location": null,
+  "priority": null,
+  "recurrence": null,
+  "participants": []
+}...
+2025-12-05 17:33:47,950 - ai_assistant - INFO - 🧠 LLM ответ: {
+  "intent": "find_slots"
+}...
+2025-12-05 17:35:52,498 - ai_assistant - ERROR - ❌ Ошибка транскрибации: [WinError 2] Не удается найти указанный файл
+2025-12-05 17:35:52,503 - ai_assistant - ERROR - ❌ Ошибка голоса: [WinError 2] Не удается найти указанный файл
+2025-12-05 17:36:49,953 - ai_assistant - INFO - 🧠 LLM ответ: {
+  "intent": "create",
+  "title": "поход в больницу",
+  "start_time": "2023-12-11T13:00:00Z",
+  "duration": 60,
+  "description": null,
+  "location": "больница",
+  "priority": "medium",
+  "recurrence"...
+2025-12-06 09:49:01,662 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 09:49:03,105 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 09:49:03,172 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 09:49:03,172 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 09:49:05,239 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 09:49:05,239 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 09:49:06,271 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 09:49:53,609 - ai_assistant - INFO - 🧠 LLM ответ: {
+  "intent": "question",
+  "title": "",
+  "start_time": null,
+  "duration": 60,
+  "description": "",
+  "location": "",
+  "priority": "",
+  "recurrence": "",
+  "participants": []
+}...
+2025-12-06 09:50:40,437 - ai_assistant - INFO - 🧠 LLM ответ: {
+  "intent": "create",
+  "title": "поход в больницу",
+  "start_time": null,
+  "duration": 60,
+  "description": "",
+  "location": "больница",
+  "priority": "medium",
+  "recurrence": "none",
+  "partici...
+2025-12-06 10:04:17,943 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:04:19,396 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:04:19,403 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:04:19,404 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:04:21,475 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:04:21,477 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:04:22,448 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 10:04:57,234 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "create", "title": "поход в больницу", "start_time": "2025-12-11T13:00:00+03:00", "duration": 30, "type": "reminder"}
+2025-12-06 10:12:05,354 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "list"}
+2025-12-06 10:16:46,125 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:16:47,010 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:16:47,014 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:16:47,015 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:16:49,061 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:16:49,061 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:24:13,133 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:24:13,890 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:24:13,895 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:24:13,895 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:24:15,944 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:24:15,944 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:24:16,489 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 10:24:28,738 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'создай напоминанеи на 11 декабря в 13 поход в больницу'
+2025-12-06 10:25:07,546 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "create", "title": "поход в больницу", "start_time": "2025-12-11T13:00:00+03:00", "duration": 30, "type": "reminder"}
+2025-12-06 10:25:07,550 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'create', 'title': 'поход в больницу', 'start_time': '2025-12-11T13:00:00+03:00', 'duration': 30, 'type': 'reminder'}
+2025-12-06 10:25:17,120 - ai_assistant - ERROR - ❌ Ошибка создания события: Отсутствует start или end time
+2025-12-06 10:32:56,988 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:32:57,756 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:32:57,761 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:32:57,761 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:32:59,823 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:32:59,823 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:40:13,019 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:40:13,752 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:40:13,756 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:40:13,756 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:40:15,764 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:40:15,764 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:42:39,099 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:42:39,870 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:42:39,875 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:42:39,875 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:42:41,924 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:42:41,925 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:42:42,471 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 10:43:00,152 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'создай напоминанеи на 11 декабря в 13 поход в больницу'
+2025-12-06 10:43:32,448 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "create", "title": "поход в больницу", "start_time": "2025-12-11T13:00:00+03:00", "duration": 30, "type": "reminder"}
+2025-12-06 10:43:32,464 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'create', 'title': 'поход в больницу', 'start_time': '2025-12-11T13:00:00+03:00', 'duration': 30, 'type': 'reminder'}
+2025-12-06 10:43:36,029 - ai_assistant - INFO - 🔘 Callback: confirm_create|event_415473858
+2025-12-06 10:43:36,030 - ai_assistant - INFO - 📝 Создаю событие: {'intent': 'create', 'title': 'поход в больницу', 'start_time': '2025-12-11T13:00:00+03:00', 'duration': 30, 'type': 'reminder'}
+2025-12-06 10:43:36,031 - ai_assistant - INFO - 📝 Создание события: {'summary': 'поход в больницу', 'description': '', 'location': '', 'start': {'dateTime': '2025-12-11T13:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'end': {'dateTime': '2025-12-11T13:30:00+03:00', 'timeZone': 'Europe/Moscow'}, 'reminders': {'useDefault': True}, 'colorId': '2'}
+2025-12-06 10:43:36,893 - ai_assistant - INFO - ✅ Событие создано: https://www.google.com/calendar/event?eid=OXBwMmU0cmVlODhudmtwaDg1cDhwOW8wdTQgb3ZlcmxvcmQyMDAyMjI3QG0
+2025-12-06 10:43:37,034 - ai_assistant - INFO - ✅ Событие создано: https://www.google.com/calendar/event?eid=OXBwMmU0cmVlODhudmtwaDg1cDhwOW8wdTQgb3ZlcmxvcmQyMDAyMjI3QG0
+2025-12-06 10:45:13,188 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'Какие у меня события на следующей неделе?'
+2025-12-06 10:45:18,765 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "list"}
+2025-12-06 10:45:18,766 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'list', 'duration': 60, 'type': 'meeting'}
+2025-12-06 10:45:18,767 - ai_assistant - INFO - 📋 Запрос списка событий
+2025-12-06 10:45:18,768 - ai_assistant - INFO - 🔍 Запрашиваю события с 2025-12-06T07:45:18.767789+00:00 до 2025-12-13T07:45:18.767789+00:00
+2025-12-06 10:45:18,890 - ai_assistant - INFO - ✅ Найдено 1 событий
+2025-12-06 10:45:18,891 - ai_assistant - INFO - Пример события: {'kind': 'calendar#event', 'etag': '"3530014033425438"', 'id': '9pp2e4ree88nvkph85p8p9o0u4', 'status': 'confirmed', 'htmlLink': 'https://www.google.com/calendar/event?eid=OXBwMmU0cmVlODhudmtwaDg1cDhwOW8wdTQgb3ZlcmxvcmQyMDAyMjI3QG0', 'created': '2025-12-06T07:43:36.000Z', 'updated': '2025-12-06T07:43:36.712Z', 'summary': 'поход в больницу', 'colorId': '2', 'creator': {'email': 'overlord2002227@gmail.com', 'self': True}, 'organizer': {'email': 'overlord2002227@gmail.com', 'self': True}, 'start': {'dateTime': '2025-12-11T13:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'end': {'dateTime': '2025-12-11T13:30:00+03:00', 'timeZone': 'Europe/Moscow'}, 'iCalUID': '9pp2e4ree88nvkph85p8p9o0u4@google.com', 'sequence': 0, 'reminders': {'useDefault': True}, 'eventType': 'default'}
+2025-12-06 10:49:30,762 - ai_assistant - INFO - 🔍 Проверка файлов:
+2025-12-06 10:49:30,766 - ai_assistant - INFO -   EXE: C:\AI_Assistant\whisper\whisper-cli.exe (exists: True)
+2025-12-06 10:49:30,766 - ai_assistant - INFO -   Model: C:\AI_Assistant\whisper\ggml-small-q5_1.bin (exists: True)
+2025-12-06 10:49:30,766 - ai_assistant - INFO -   Audio: C:\AI_Assistant\temp\voice_415473861.ogg (exists: True)
+2025-12-06 10:49:30,806 - ai_assistant - ERROR - ❌ Ошибка транскрибации: [WinError 2] Не удается найти указанный файл
+2025-12-06 10:49:30,808 - ai_assistant - ERROR - ❌ Ошибка голоса: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 86, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 56, in transcribe
+    audio = AudioSegment.from_file(audio_path)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 10:54:48,588 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 10:54:49,400 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 10:54:49,404 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 10:54:49,404 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 10:54:51,437 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 10:54:51,437 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 10:54:51,993 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 10:55:12,891 - ai_assistant - INFO - 🔍 Проверка файлов:
+2025-12-06 10:55:12,891 - ai_assistant - INFO -   EXE: C:\AI_Assistant\whisper\whisper-cli.exe (exists: True)
+2025-12-06 10:55:12,893 - ai_assistant - INFO -   Model: C:\AI_Assistant\whisper\ggml-small-q5_1.bin (exists: True)
+2025-12-06 10:55:12,893 - ai_assistant - INFO -   Audio: C:\AI_Assistant\temp\voice_415473862.ogg (exists: True)
+2025-12-06 10:55:12,894 - ai_assistant - INFO -   FFmpeg: C:\AI_Assistant\whisper\ffmpeg.exe (exists: True)
+2025-12-06 10:55:12,906 - ai_assistant - ERROR - ❌ Ошибка транскрибации: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\services\whisper_service.py", line 57, in transcribe
+    audio = AudioSegment.from_file(str(audio_path), executable=str(ffmpeg_path))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 10:55:12,910 - ai_assistant - ERROR - ❌ Ошибка голоса: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 86, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 57, in transcribe
+    audio = AudioSegment.from_file(str(audio_path), executable=str(ffmpeg_path))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 11:02:39,849 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:02:40,623 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:02:40,627 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:02:40,628 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:02:42,669 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:02:42,669 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:02:43,211 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:03:10,986 - ai_assistant - INFO - 📥 Скачано: temp\voice_415473863.ogg (107230 байт)
+2025-12-06 11:03:10,989 - ai_assistant - INFO - 🔍 Проверка файлов:
+2025-12-06 11:03:10,989 - ai_assistant - INFO -   EXE: C:\AI_Assistant\whisper\whisper-cli.exe (True)
+2025-12-06 11:03:10,989 - ai_assistant - INFO -   Model: C:\AI_Assistant\whisper\ggml-small-q5_1.bin (True)
+2025-12-06 11:03:10,989 - ai_assistant - INFO -   Audio: C:\AI_Assistant\temp\voice_415473863.ogg (True)
+2025-12-06 11:03:10,990 - ai_assistant - INFO -   FFmpeg: C:\AI_Assistant\whisper\ffmpeg.exe (True)
+2025-12-06 11:03:10,990 - ai_assistant - INFO -   FFprobe: C:\AI_Assistant\whisper\ffprobe.exe (True)
+2025-12-06 11:03:11,005 - ai_assistant - ERROR - ❌ Ошибка транскрибации: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\services\whisper_service.py", line 56, in transcribe
+    audio = AudioSegment.from_file(str(audio_path))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 11:03:11,008 - ai_assistant - ERROR - ❌ Ошибка голоса: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 92, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 56, in transcribe
+    audio = AudioSegment.from_file(str(audio_path))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 11:14:55,771 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:14:56,514 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:14:56,518 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:14:56,518 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:14:58,582 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:14:58,584 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:14:59,179 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:15:21,733 - ai_assistant - INFO - 📥 Скачано: temp\voice_415473864.ogg (185953 байт)
+2025-12-06 11:15:21,734 - ai_assistant - INFO - 🔍 Проверка файлов:
+2025-12-06 11:15:21,735 - ai_assistant - INFO -   EXE: C:\AI_Assistant\whisper\whisper-cli.exe (True)
+2025-12-06 11:15:21,735 - ai_assistant - INFO -   Model: C:\AI_Assistant\whisper\ggml-small-q5_1.bin (True)
+2025-12-06 11:15:21,735 - ai_assistant - INFO -   Audio: C:\AI_Assistant\temp\voice_415473864.ogg (True)
+2025-12-06 11:15:21,735 - ai_assistant - INFO -   FFmpeg: C:\AI_Assistant\whisper\ffmpeg.exe (True)
+2025-12-06 11:15:21,735 - ai_assistant - INFO -   FFprobe: C:\AI_Assistant\whisper\ffprobe.exe (True)
+2025-12-06 11:15:21,747 - ai_assistant - ERROR - ❌ Ошибка транскрибации: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\services\whisper_service.py", line 56, in transcribe
+    audio = AudioSegment.from_file(str(audio_path))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 11:15:21,751 - ai_assistant - ERROR - ❌ Ошибка голоса: [WinError 2] Не удается найти указанный файл
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 92, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 56, in transcribe
+    audio = AudioSegment.from_file(str(audio_path))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\audio_segment.py", line 728, in from_file
+    info = mediainfo_json(orig_file, read_ahead_limit=read_ahead_limit)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\.venv\Lib\site-packages\pydub\utils.py", line 274, in mediainfo_json
+    res = Popen(command, stdin=stdin_parameter, stdout=PIPE, stderr=PIPE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Не удается найти указанный файл
+2025-12-06 11:22:52,638 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:22:53,400 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:22:53,400 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:22:53,400 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:22:57,486 - ai_assistant - ERROR - ❌ Ollama не доступен: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-12-06 11:22:57,486 - ai_assistant - ERROR - ❌ Ollama не доступен. Запустите 'ollama serve'
+2025-12-06 11:26:29,573 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:26:30,293 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:26:30,293 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:26:30,293 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:26:32,346 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:26:32,347 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:26:32,865 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:27:03,216 - ai_assistant - INFO - 📥 Скачано: temp\voice_415473865.ogg (215174 байт)
+2025-12-06 11:27:03,217 - ai_assistant - INFO - 🔍 Проверка файлов:
+2025-12-06 11:27:03,218 - ai_assistant - INFO -   EXE: C:\AI_Assistant\whisper\whisper-cli.exe (True)
+2025-12-06 11:27:03,218 - ai_assistant - INFO -   Model: C:\AI_Assistant\whisper\ggml-small-q5_1.bin (True)
+2025-12-06 11:27:03,218 - ai_assistant - INFO -   Audio: C:\AI_Assistant\temp\voice_415473865.ogg (True)
+2025-12-06 11:27:03,218 - ai_assistant - ERROR - ❌ Ошибка транскрибации: name 'FFMPEG_PATH' is not defined
+Traceback (most recent call last):
+  File "C:\AI_Assistant\services\whisper_service.py", line 52, in transcribe
+    logger.info(f"  FFmpeg: {FFMPEG_PATH} ({Path(FFMPEG_PATH).exists()})")
+                             ^^^^^^^^^^^
+NameError: name 'FFMPEG_PATH' is not defined
+2025-12-06 11:27:03,219 - ai_assistant - ERROR - ❌ Ошибка голоса: name 'FFMPEG_PATH' is not defined
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 92, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 52, in transcribe
+    logger.info(f"  FFmpeg: {FFMPEG_PATH} ({Path(FFMPEG_PATH).exists()})")
+                             ^^^^^^^^^^^
+NameError: name 'FFMPEG_PATH' is not defined
+2025-12-06 11:28:18,702 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:28:19,396 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:28:19,396 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:28:19,396 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:28:21,446 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:28:21,447 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:28:21,951 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:29:14,579 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:29:15,224 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:29:15,226 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:29:15,226 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:29:17,270 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:29:17,271 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:29:17,772 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:29:27,953 - ai_assistant - INFO - 📥 Скачано: temp\voice_415473866.ogg (125358 байт)
+2025-12-06 11:29:28,218 - ai_assistant - INFO - 🎤 Запуск Whisper: C:\AI_Assistant\whisper\whisper-cli.exe -m C:\AI_Assistant\whisper\ggml-small-q5_1.bin -l ru -f temp\temp_voice_415473866.wav --no-timestamps
+2025-12-06 11:29:28,252 - ai_assistant - ERROR - ❌ Whisper ошибка: error: input file not found 'temp\temp_voice_415473866.wav'
+error: no input files specified
+
+usage: C:\AI_Assistant\whisper\whisper-cli.exe [options] file0 file1 ...
+supported audio formats: flac, mp3, ogg, wav
+
+options:
+  -h,        --help                 [default] show this help message and exit
+  -t N,      --threads N            [4      ] number of threads to use during computation
+  -p N,      --processors N         [1      ] number of processors to use during computation
+  -ot N,     --offset-t N           [0      ] time offset in milliseconds
+  -on N,     --offset-n N           [0      ] segment index offset
+  -d  N,     --duration N           [0      ] duration of audio to process in milliseconds
+  -mc N,     --max-context N        [-1     ] maximum number of text context tokens to store
+  -ml N,     --max-len N            [0      ] maximum segment length in characters
+  -sow,      --split-on-word        [false  ] split on word rather than on token
+  -bo N,     --best-of N            [5      ] number of best candidates to keep
+  -bs N,     --beam-size N          [5      ] beam size for beam search
+  -ac N,     --audio-ctx N          [0      ] audio context size (0 - all)
+  -wt N,     --word-thold N         [0.01   ] word timestamp probability threshold
+  -et N,     --entropy-thold N      [2.40   ] entropy threshold for decoder fail
+  -lpt N,    --logprob-thold N      [-1.00  ] log probability threshold for decoder fail
+  -nth N,    --no-speech-thold N    [0.60   ] no speech threshold
+  -tp,       --temperature N        [0.00   ] The sampling temperature, between 0 and 1
+  -tpi,      --temperature-inc N    [0.20   ] The increment of temperature, between 0 and 1
+  -debug,    --debug-mode           [false  ] enable debug mode (eg. dump log_mel)
+  -tr,       --translate            [false  ] translate from source language to english
+  -di,       --diarize              [false  ] stereo audio diarization
+  -tdrz,     --tinydiarize          [false  ] enable tinydiarize (requires a tdrz model)
+  -nf,       --no-fallback          [false  ] do not use temperature fallback while decoding
+  -otxt,     --output-txt           [false  ] output result in a text file
+  -ovtt,     --output-vtt           [false  ] output result in a vtt file
+  -osrt,     --output-srt           [false  ] output result in a srt file
+  -olrc,     --output-lrc           [false  ] output result in a lrc file
+  -owts,     --output-words         [false  ] output script for generating karaoke video
+  -fp,       --font-path            [/System/Library/Fonts/Supplemental/Courier New Bold.ttf] path to a monospace font for karaoke video
+  -ocsv,     --output-csv           [false  ] output result in a CSV file
+  -oj,       --output-json          [false  ] output result in a JSON file
+  -ojf,      --output-json-full     [false  ] include more information in the JSON file
+  -of FNAME, --output-file FNAME    [       ] output file path (without file extension)
+  -np,       --no-prints            [false  ] do not print anything other than the results
+  -ps,       --print-special        [false  ] print special tokens
+  -pc,       --print-colors         [false  ] print colors
+             --print-confidence     [false  ] print confidence
+  -pp,       --print-progress       [false  ] print progress
+  -nt,       --no-timestamps        [true   ] do not print timestamps
+  -l LANG,   --language LANG        [ru     ] spoken language ('auto' for auto-detect)
+  -dl,       --detect-language      [false  ] exit after automatically detecting language
+             --prompt PROMPT        [       ] initial prompt (max n_text_ctx/2 tokens)
+             --carry-initial-prompt [false  ] always prepend initial prompt
+  -m FNAME,  --model FNAME          [C:\AI_Assistant\whisper\ggml-small-q5_1.bin] model path
+  -f FNAME,  --file FNAME           [       ] input audio file path
+  -oved D,   --ov-e-device DNAME    [CPU    ] the OpenVINO device used for encode inference
+  -dtw MODEL --dtw MODEL            [       ] compute token-level timestamps
+  -ls,       --log-score            [false  ] log best decoder scores of tokens
+  -ng,       --no-gpu               [false  ] disable GPU
+  -fa,       --flash-attn           [true   ] enable flash attention
+  -nfa,      --no-flash-attn        [false  ] disable flash attention
+  -sns,      --suppress-nst         [false  ] suppress non-speech tokens
+  --suppress-regex REGEX            [       ] regular expression matching tokens to suppress
+  --grammar GRAMMAR                 [       ] GBNF grammar to guide decoding
+  --grammar-rule RULE               [       ] top-level GBNF grammar rule name
+  --grammar-penalty N               [100.0  ] scales down logits of nongrammar tokens
+
+Voice Activity Detection (VAD) options:
+             --vad                           [false  ] enable Voice Activity Detection (VAD)
+  -vm FNAME, --vad-model FNAME               [       ] VAD model path
+  -vt N,     --vad-threshold N               [0.50   ] VAD threshold for speech recognition
+  -vspd N,   --vad-min-speech-duration-ms  N [250    ] VAD min speech duration (0.0-1.0)
+  -vsd N,    --vad-min-silence-duration-ms N [100    ] VAD min silence duration (to split segments)
+  -vmsd N,   --vad-max-speech-duration-s   N [FLT_MAX] VAD max speech duration (auto-split longer)
+  -vp N,     --vad-speech-pad-ms           N [30     ] VAD speech padding (extend segments)
+  -vo N,     --vad-samples-overlap         N [0.10   ] VAD samples overlap (seconds between segments)
+
+
+2025-12-06 11:29:28,254 - ai_assistant - ERROR - ❌ Ошибка голоса: Command '['C:\\AI_Assistant\\whisper\\whisper-cli.exe', '-m', 'C:\\AI_Assistant\\whisper\\ggml-small-q5_1.bin', '-l', 'ru', '-f', 'temp\\temp_voice_415473866.wav', '--no-timestamps']' returned non-zero exit status 2.
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 92, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 64, in transcribe
+    result = subprocess.run(
+             ^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['C:\\AI_Assistant\\whisper\\whisper-cli.exe', '-m', 'C:\\AI_Assistant\\whisper\\ggml-small-q5_1.bin', '-l', 'ru', '-f', 'temp\\temp_voice_415473866.wav', '--no-timestamps']' returned non-zero exit status 2.
+2025-12-06 11:43:07,496 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:43:08,259 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:43:08,262 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:43:08,262 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:43:10,305 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:43:10,305 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:43:10,830 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:43:47,878 - ai_assistant - INFO - 📥 Скачано: C:\AI_Assistant\temp\voice_415473867.ogg (269177 байт)
+2025-12-06 11:43:48,013 - ai_assistant - INFO - 🎤 Запуск Whisper: C:\AI_Assistant\whisper\whisper-cli.exe -m C:\AI_Assistant\whisper\ggml-small-q5_1.bin -l ru -f temp\temp_voice_415473867.wav --no-timestamps
+2025-12-06 11:43:48,055 - ai_assistant - ERROR - ❌ Whisper ошибка: error: input file not found 'temp\temp_voice_415473867.wav'
+error: no input files specified
+
+usage: C:\AI_Assistant\whisper\whisper-cli.exe [options] file0 file1 ...
+supported audio formats: flac, mp3, ogg, wav
+
+options:
+  -h,        --help                 [default] show this help message and exit
+  -t N,      --threads N            [4      ] number of threads to use during computation
+  -p N,      --processors N         [1      ] number of processors to use during computation
+  -ot N,     --offset-t N           [0      ] time offset in milliseconds
+  -on N,     --offset-n N           [0      ] segment index offset
+  -d  N,     --duration N           [0      ] duration of audio to process in milliseconds
+  -mc N,     --max-context N        [-1     ] maximum number of text context tokens to store
+  -ml N,     --max-len N            [0      ] maximum segment length in characters
+  -sow,      --split-on-word        [false  ] split on word rather than on token
+  -bo N,     --best-of N            [5      ] number of best candidates to keep
+  -bs N,     --beam-size N          [5      ] beam size for beam search
+  -ac N,     --audio-ctx N          [0      ] audio context size (0 - all)
+  -wt N,     --word-thold N         [0.01   ] word timestamp probability threshold
+  -et N,     --entropy-thold N      [2.40   ] entropy threshold for decoder fail
+  -lpt N,    --logprob-thold N      [-1.00  ] log probability threshold for decoder fail
+  -nth N,    --no-speech-thold N    [0.60   ] no speech threshold
+  -tp,       --temperature N        [0.00   ] The sampling temperature, between 0 and 1
+  -tpi,      --temperature-inc N    [0.20   ] The increment of temperature, between 0 and 1
+  -debug,    --debug-mode           [false  ] enable debug mode (eg. dump log_mel)
+  -tr,       --translate            [false  ] translate from source language to english
+  -di,       --diarize              [false  ] stereo audio diarization
+  -tdrz,     --tinydiarize          [false  ] enable tinydiarize (requires a tdrz model)
+  -nf,       --no-fallback          [false  ] do not use temperature fallback while decoding
+  -otxt,     --output-txt           [false  ] output result in a text file
+  -ovtt,     --output-vtt           [false  ] output result in a vtt file
+  -osrt,     --output-srt           [false  ] output result in a srt file
+  -olrc,     --output-lrc           [false  ] output result in a lrc file
+  -owts,     --output-words         [false  ] output script for generating karaoke video
+  -fp,       --font-path            [/System/Library/Fonts/Supplemental/Courier New Bold.ttf] path to a monospace font for karaoke video
+  -ocsv,     --output-csv           [false  ] output result in a CSV file
+  -oj,       --output-json          [false  ] output result in a JSON file
+  -ojf,      --output-json-full     [false  ] include more information in the JSON file
+  -of FNAME, --output-file FNAME    [       ] output file path (without file extension)
+  -np,       --no-prints            [false  ] do not print anything other than the results
+  -ps,       --print-special        [false  ] print special tokens
+  -pc,       --print-colors         [false  ] print colors
+             --print-confidence     [false  ] print confidence
+  -pp,       --print-progress       [false  ] print progress
+  -nt,       --no-timestamps        [true   ] do not print timestamps
+  -l LANG,   --language LANG        [ru     ] spoken language ('auto' for auto-detect)
+  -dl,       --detect-language      [false  ] exit after automatically detecting language
+             --prompt PROMPT        [       ] initial prompt (max n_text_ctx/2 tokens)
+             --carry-initial-prompt [false  ] always prepend initial prompt
+  -m FNAME,  --model FNAME          [C:\AI_Assistant\whisper\ggml-small-q5_1.bin] model path
+  -f FNAME,  --file FNAME           [       ] input audio file path
+  -oved D,   --ov-e-device DNAME    [CPU    ] the OpenVINO device used for encode inference
+  -dtw MODEL --dtw MODEL            [       ] compute token-level timestamps
+  -ls,       --log-score            [false  ] log best decoder scores of tokens
+  -ng,       --no-gpu               [false  ] disable GPU
+  -fa,       --flash-attn           [true   ] enable flash attention
+  -nfa,      --no-flash-attn        [false  ] disable flash attention
+  -sns,      --suppress-nst         [false  ] suppress non-speech tokens
+  --suppress-regex REGEX            [       ] regular expression matching tokens to suppress
+  --grammar GRAMMAR                 [       ] GBNF grammar to guide decoding
+  --grammar-rule RULE               [       ] top-level GBNF grammar rule name
+  --grammar-penalty N               [100.0  ] scales down logits of nongrammar tokens
+
+Voice Activity Detection (VAD) options:
+             --vad                           [false  ] enable Voice Activity Detection (VAD)
+  -vm FNAME, --vad-model FNAME               [       ] VAD model path
+  -vt N,     --vad-threshold N               [0.50   ] VAD threshold for speech recognition
+  -vspd N,   --vad-min-speech-duration-ms  N [250    ] VAD min speech duration (0.0-1.0)
+  -vsd N,    --vad-min-silence-duration-ms N [100    ] VAD min silence duration (to split segments)
+  -vmsd N,   --vad-max-speech-duration-s   N [FLT_MAX] VAD max speech duration (auto-split longer)
+  -vp N,     --vad-speech-pad-ms           N [30     ] VAD speech padding (extend segments)
+  -vo N,     --vad-samples-overlap         N [0.10   ] VAD samples overlap (seconds between segments)
+
+
+2025-12-06 11:43:48,057 - ai_assistant - ERROR - ❌ Ошибка голоса: Command '['C:\\AI_Assistant\\whisper\\whisper-cli.exe', '-m', 'C:\\AI_Assistant\\whisper\\ggml-small-q5_1.bin', '-l', 'ru', '-f', 'temp\\temp_voice_415473867.wav', '--no-timestamps']' returned non-zero exit status 2.
+Traceback (most recent call last):
+  File "C:\AI_Assistant\handlers\telegram_handler.py", line 94, in handle_voice
+    transcription = await asyncio.to_thread(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\AI_Assistant\services\whisper_service.py", line 64, in transcribe
+    result = subprocess.run(
+             ^^^^^^^^^^^^^^^
+  File "C:\Python\Python_3.11\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['C:\\AI_Assistant\\whisper\\whisper-cli.exe', '-m', 'C:\\AI_Assistant\\whisper\\ggml-small-q5_1.bin', '-l', 'ru', '-f', 'temp\\temp_voice_415473867.wav', '--no-timestamps']' returned non-zero exit status 2.
+2025-12-06 11:46:23,686 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:46:24,414 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:46:24,415 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:46:24,415 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:46:26,466 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:46:26,466 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:46:26,988 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:46:42,630 - ai_assistant - INFO - 📥 Скачано: C:\AI_Assistant\temp\voice_415473868.ogg (269177 байт)
+2025-12-06 11:46:42,632 - ai_assistant - INFO - 📄 Создаю WAV: C:\AI_Assistant\temp\temp_voice_415473868.wav
+2025-12-06 11:46:42,757 - ai_assistant - INFO - ✅ WAV создан: C:\AI_Assistant\temp\temp_voice_415473868.wav (838028 байт)
+2025-12-06 11:46:42,757 - ai_assistant - INFO - 🎤 Запуск Whisper: C:\AI_Assistant\whisper\whisper-cli.exe -m C:\AI_Assistant\whisper\ggml-small-q5_1.bin -l ru -f C:\AI_Assistant\temp\temp_voice_415473868.wav --no-timestamps
+2025-12-06 11:46:42,757 - ai_assistant - INFO -     Рабочая директория: C:\AI_Assistant\whisper
+2025-12-06 11:46:42,758 - ai_assistant - INFO -     Входной файл: C:\AI_Assistant\temp\temp_voice_415473868.wav
+2025-12-06 11:46:50,025 - ai_assistant - INFO - ✅ Распознано: Сделай мне напоминание в календаре, что мне надо пойти в больницу 11 декабря в 13 часов....
+2025-12-06 11:46:50,254 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'Сделай мне напоминание в календаре, что мне надо пойти в больницу 11 декабря в 13 часов.'
+2025-12-06 11:47:18,870 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "create", "title": "поход в больницу", "start_time": "2025-12-11T13:00:00+03:00", "duration": 30, "type": "reminder"}
+2025-12-06 11:47:18,870 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'create', 'title': 'поход в больницу', 'start_time': '2025-12-11T13:00:00+03:00', 'duration': 30, 'type': 'reminder'}
+2025-12-06 11:47:24,663 - ai_assistant - INFO - 🔘 Callback: confirm_create|event_415473868
+2025-12-06 11:47:24,663 - ai_assistant - INFO - 📝 Создаю событие: {'intent': 'create', 'title': 'поход в больницу', 'start_time': '2025-12-11T13:00:00+03:00', 'duration': 30, 'type': 'reminder'}
+2025-12-06 11:47:24,668 - ai_assistant - INFO - 📝 Создание события: {'summary': 'поход в больницу', 'description': '', 'location': '', 'start': {'dateTime': '2025-12-11T13:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'end': {'dateTime': '2025-12-11T13:30:00+03:00', 'timeZone': 'Europe/Moscow'}, 'reminders': {'useDefault': True}, 'colorId': '2'}
+2025-12-06 11:47:25,725 - ai_assistant - INFO - ✅ Событие создано: https://www.google.com/calendar/event?eid=NTJuaXV0dTNuaDI5dnUxZDZuaHBlajRzMWMgb3ZlcmxvcmQyMDAyMjI3QG0
+2025-12-06 11:47:25,876 - ai_assistant - INFO - ✅ Событие создано: https://www.google.com/calendar/event?eid=NTJuaXV0dTNuaDI5dnUxZDZuaHBlajRzMWMgb3ZlcmxvcmQyMDAyMjI3QG0
+2025-12-06 11:49:41,855 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 11:49:42,583 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 11:49:42,588 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 11:49:42,589 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 11:49:44,613 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 11:49:44,613 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 11:49:45,146 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 11:51:08,987 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'Покажи события на неделю'
+2025-12-06 11:51:19,856 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "list"}
+2025-12-06 11:51:19,857 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'list', 'duration': 60, 'type': 'meeting'}
+2025-12-06 11:51:19,858 - ai_assistant - INFO - 📋 Запрос списка событий
+2025-12-06 11:51:19,859 - ai_assistant - INFO - 🔍 Запрашиваю события с 2025-12-06T08:51:19.858678+00:00 до 2025-12-13T08:51:19.858678+00:00
+2025-12-06 11:51:20,410 - ai_assistant - INFO - ✅ Найдено 2 событий
+2025-12-06 11:51:20,410 - ai_assistant - INFO - Пример события: {'kind': 'calendar#event', 'etag': '"3530021690738398"', 'id': '52niutu3nh29vu1d6nhpej4s1c', 'status': 'confirmed', 'htmlLink': 'https://www.google.com/calendar/event?eid=NTJuaXV0dTNuaDI5dnUxZDZuaHBlajRzMWMgb3ZlcmxvcmQyMDAyMjI3QG0', 'created': '2025-12-06T08:47:25.000Z', 'updated': '2025-12-06T08:47:25.369Z', 'summary': 'поход в больницу', 'colorId': '2', 'creator': {'email': 'overlord2002227@gmail.com', 'self': True}, 'organizer': {'email': 'overlord2002227@gmail.com', 'self': True}, 'start': {'dateTime': '2025-12-11T13:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'end': {'dateTime': '2025-12-11T13:30:00+03:00', 'timeZone': 'Europe/Moscow'}, 'iCalUID': '52niutu3nh29vu1d6nhpej4s1c@google.com', 'sequence': 0, 'reminders': {'useDefault': True}, 'eventType': 'default'}
+2025-12-06 14:18:29,483 - ai_assistant - INFO - ✅ Google Calendar API подключен
+2025-12-06 14:18:30,277 - ai_assistant - INFO - 🚀 Запуск AI-ассистента...
+2025-12-06 14:18:30,280 - ai_assistant - INFO - 🔍 Проверка сервисов...
+2025-12-06 14:18:30,281 - ai_assistant - INFO - ✅ Доступ разрешён для: [5527939035]
+2025-12-06 14:18:32,303 - ai_assistant - INFO - ✅ Ollama доступен
+2025-12-06 14:18:32,304 - ai_assistant - INFO - ✅ Все сервисы готовы!
+2025-12-06 14:18:32,861 - ai_assistant - INFO - 🚀 Бот запущен!
+2025-12-06 14:19:36,714 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'Создай встречу с Петей на завтра в 15'
+2025-12-06 14:20:16,351 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "create", "title": "Встреча с Петей", "start_time": "2025-12-07T15:00:00+03:00", "duration": 60, "type": "meeting"}
+2025-12-06 14:20:16,352 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'create', 'title': 'Встреча с Петей', 'start_time': '2025-12-07T15:00:00+03:00', 'duration': 60, 'type': 'meeting'}
+2025-12-06 14:20:22,640 - ai_assistant - INFO - 🔘 Callback: confirm_create|event_415473871
+2025-12-06 14:20:22,641 - ai_assistant - INFO - 📝 Создаю событие: {'intent': 'create', 'title': 'Встреча с Петей', 'start_time': '2025-12-07T15:00:00+03:00', 'duration': 60, 'type': 'meeting'}
+2025-12-06 14:20:22,641 - ai_assistant - INFO - 📝 Создание события: {'summary': 'Встреча с Петей', 'description': '', 'location': '', 'start': {'dateTime': '2025-12-07T15:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'end': {'dateTime': '2025-12-07T16:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'reminders': {'useDefault': True}, 'colorId': '5'}
+2025-12-06 14:20:23,750 - ai_assistant - INFO - ✅ Событие создано: https://www.google.com/calendar/event?eid=OWYwYzhhOGdsMDc3Zjdjamd2cTNtcXZ0amcgb3ZlcmxvcmQyMDAyMjI3QG0
+2025-12-06 14:20:23,860 - ai_assistant - INFO - ✅ Событие создано: https://www.google.com/calendar/event?eid=OWYwYzhhOGdsMDc3Zjdjamd2cTNtcXZ0amcgb3ZlcmxvcmQyMDAyMjI3QG0
+2025-12-06 14:27:01,725 - ai_assistant - INFO - 📋 Запрос списка событий
+2025-12-06 14:27:01,733 - ai_assistant - INFO - 🔍 Запрашиваю события с 2025-12-06T11:27:01.733373+00:00 до 2025-12-13T11:27:01.733373+00:00
+2025-12-06 14:27:01,980 - ai_assistant - INFO - ✅ Найдено 2 событий
+2025-12-06 14:27:01,982 - ai_assistant - INFO - Пример события: {'kind': 'calendar#event', 'etag': '"3530040045688926"', 'id': '9f0c8a8gl077f7cjgvq3mqvtjg', 'status': 'confirmed', 'htmlLink': 'https://www.google.com/calendar/event?eid=OWYwYzhhOGdsMDc3Zjdjamd2cTNtcXZ0amcgb3ZlcmxvcmQyMDAyMjI3QG0', 'created': '2025-12-06T11:20:22.000Z', 'updated': '2025-12-06T11:20:22.844Z', 'summary': 'Встреча с Петей', 'colorId': '5', 'creator': {'email': 'overlord2002227@gmail.com', 'self': True}, 'organizer': {'email': 'overlord2002227@gmail.com', 'self': True}, 'start': {'dateTime': '2025-12-07T15:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'end': {'dateTime': '2025-12-07T16:00:00+03:00', 'timeZone': 'Europe/Moscow'}, 'iCalUID': '9f0c8a8gl077f7cjgvq3mqvtjg@google.com', 'sequence': 0, 'reminders': {'useDefault': True}, 'eventType': 'default'}
+2025-12-06 14:27:50,033 - ai_assistant - INFO - 📥 Скачано: C:\AI_Assistant\temp\voice_415473874.ogg (23451 байт)
+2025-12-06 14:27:50,039 - ai_assistant - INFO - 📄 Создаю WAV: C:\AI_Assistant\temp\temp_voice_415473874.wav
+2025-12-06 14:27:50,442 - ai_assistant - INFO - ✅ WAV создан: C:\AI_Assistant\temp\temp_voice_415473874.wav (387884 байт)
+2025-12-06 14:27:50,442 - ai_assistant - INFO - 🎤 Запуск Whisper: C:\AI_Assistant\whisper\whisper-cli.exe -m C:\AI_Assistant\whisper\ggml-small-q5_1.bin -l ru -f C:\AI_Assistant\temp\temp_voice_415473874.wav --no-timestamps
+2025-12-06 14:27:50,444 - ai_assistant - INFO -     Рабочая директория: C:\AI_Assistant\whisper
+2025-12-06 14:27:50,444 - ai_assistant - INFO -     Входной файл: C:\AI_Assistant\temp\temp_voice_415473874.wav
+2025-12-06 14:27:59,832 - ai_assistant - INFO - ✅ Распознано: поставь мне встречу с Леной на завтра на три...
+2025-12-06 14:28:00,035 - ai_assistant - INFO - 🔍 Обрабатываю текст: 'поставь мне встречу с Леной на завтра на три'
+2025-12-06 14:28:37,827 - ai_assistant - INFO - 🧠 LLM ответ: {"intent": "create", "title": "Встреча с Леной", "start_time": "2025-12-07T09:00:00+03:00", "duration": 180, "type": "meeting"}
+2025-12-06 14:28:37,827 - ai_assistant - INFO - 📊 Результат парсинга: {'intent': 'create', 'title': 'Встреча с Леной', 'start_time': '2025-12-07T09:00:00+03:00', 'duration': 180, 'type': 'meeting'}
+2025-12-06 14:29:16,832 - ai_assistant - INFO - 🔘 Callback: cancel
